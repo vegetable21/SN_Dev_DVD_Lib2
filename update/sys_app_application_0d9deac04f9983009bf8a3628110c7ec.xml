@@ -15,16 +15,16 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>0d9deac04f9983009bf8a3628110c7ec</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>DVD Library</sys_name>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Media Library</sys_name>
         <sys_overrides/>
-        <sys_package display_value="DVD Library 2" source="x_snc_dvd_lib2">636d66404f9983009bf8a3628110c7b9</sys_package>
+        <sys_package display_value="Media Library 2" source="x_snc_dvd_lib2">636d66404f9983009bf8a3628110c7b9</sys_package>
         <sys_policy/>
-        <sys_scope display_value="DVD Library 2">636d66404f9983009bf8a3628110c7b9</sys_scope>
+        <sys_scope display_value="Media Library 2">636d66404f9983009bf8a3628110c7b9</sys_scope>
         <sys_update_name>sys_app_application_0d9deac04f9983009bf8a3628110c7ec</sys_update_name>
         <sys_updated_by>andy.venables</sys_updated_by>
-        <sys_updated_on>2017-09-14 18:10:42</sys_updated_on>
-        <title>DVD Library</title>
+        <sys_updated_on>2017-09-14 18:22:33</sys_updated_on>
+        <title>Media Library</title>
         <view_name/>
     </sys_app_application>
 </record_update>

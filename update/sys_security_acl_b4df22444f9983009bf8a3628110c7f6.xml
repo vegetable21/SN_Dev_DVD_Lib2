@@ -5,22 +5,22 @@
         <admin_overrides>true</admin_overrides>
         <advanced>false</advanced>
         <condition/>
-        <description>Default access control on x_snc_dvd_lib2_dvd</description>
-        <name>x_snc_dvd_lib2_dvd</name>
+        <description>Default access control on x_snc_dvd_lib2_media</description>
+        <name>x_snc_dvd_lib2_media</name>
         <operation display_value="delete">delete</operation>
         <script/>
         <sys_class_name>sys_security_acl</sys_class_name>
         <sys_created_by>andy.venables</sys_created_by>
-        <sys_created_on>2017-09-14 18:10:43</sys_created_on>
-        <sys_id>dd9d2ec04f9983009bf8a3628110c733</sys_id>
+        <sys_created_on>2017-09-14 18:20:31</sys_created_on>
+        <sys_id>b4df22444f9983009bf8a3628110c7f6</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>x_snc_dvd_lib2_dvd</sys_name>
+        <sys_name>x_snc_dvd_lib2_media</sys_name>
         <sys_package display_value="Media Library 2" source="x_snc_dvd_lib2">636d66404f9983009bf8a3628110c7b9</sys_package>
         <sys_policy/>
         <sys_scope display_value="Media Library 2">636d66404f9983009bf8a3628110c7b9</sys_scope>
-        <sys_update_name>sys_security_acl_dd9d2ec04f9983009bf8a3628110c733</sys_update_name>
+        <sys_update_name>sys_security_acl_b4df22444f9983009bf8a3628110c7f6</sys_update_name>
         <sys_updated_by>andy.venables</sys_updated_by>
-        <sys_updated_on>2017-09-14 18:10:43</sys_updated_on>
+        <sys_updated_on>2017-09-14 18:20:31</sys_updated_on>
         <type display_value="record">record</type>
     </sys_security_acl>
 </record_update>

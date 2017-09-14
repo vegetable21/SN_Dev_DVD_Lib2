@@ -7,9 +7,9 @@
         <sys_id>d59d2ec04f9983009bf8a3628110c736</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_snc_dvd_lib2_dvd.x_snc_dvd_lib2.user</sys_name>
-        <sys_package display_value="DVD Library 2" source="x_snc_dvd_lib2">636d66404f9983009bf8a3628110c7b9</sys_package>
+        <sys_package display_value="Media Library 2" source="x_snc_dvd_lib2">636d66404f9983009bf8a3628110c7b9</sys_package>
         <sys_policy/>
-        <sys_scope display_value="DVD Library 2">636d66404f9983009bf8a3628110c7b9</sys_scope>
+        <sys_scope display_value="Media Library 2">636d66404f9983009bf8a3628110c7b9</sys_scope>
         <sys_security_acl display_value="x_snc_dvd_lib2_dvd">dd9d2ec04f9983009bf8a3628110c733</sys_security_acl>
         <sys_update_name>sys_security_acl_role_d59d2ec04f9983009bf8a3628110c736</sys_update_name>
         <sys_updated_by>andy.venables</sys_updated_by>

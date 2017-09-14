@@ -27,9 +27,9 @@ DVDUtil.prototype = {
         <sys_id>daddaec04f9983009bf8a3628110c7b8</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>DVDUtil</sys_name>
-        <sys_package display_value="DVD Library 2" source="x_snc_dvd_lib2">636d66404f9983009bf8a3628110c7b9</sys_package>
+        <sys_package display_value="Media Library 2" source="x_snc_dvd_lib2">636d66404f9983009bf8a3628110c7b9</sys_package>
         <sys_policy>protected</sys_policy>
-        <sys_scope display_value="DVD Library 2">636d66404f9983009bf8a3628110c7b9</sys_scope>
+        <sys_scope display_value="Media Library 2">636d66404f9983009bf8a3628110c7b9</sys_scope>
         <sys_update_name>sys_script_include_daddaec04f9983009bf8a3628110c7b8</sys_update_name>
         <sys_updated_by>andy.venables</sys_updated_by>
         <sys_updated_on>2017-09-14 18:12:21</sys_updated_on>
