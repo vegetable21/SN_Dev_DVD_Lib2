@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
     <element label="DVD" max_length="40" name="x_snc_dvd_lib2_dvd" type="collection">
+        <element label="Director" max_length="40" name="director" type="string"/>
         <element label="Title" max_length="100" name="title" type="string"/>
     </element>
 </database>
