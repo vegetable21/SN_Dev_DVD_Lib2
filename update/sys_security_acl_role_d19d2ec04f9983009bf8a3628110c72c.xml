@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>andy.venables</sys_created_by>
+        <sys_created_on>2017-09-14 18:10:43</sys_created_on>
+        <sys_id>d19d2ec04f9983009bf8a3628110c72c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_dvd_lib2_dvd.x_snc_dvd_lib2.user</sys_name>
+        <sys_package display_value="DVD Library 2" source="x_snc_dvd_lib2">636d66404f9983009bf8a3628110c7b9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DVD Library 2">636d66404f9983009bf8a3628110c7b9</sys_scope>
+        <sys_security_acl display_value="x_snc_dvd_lib2_dvd">159d2ec04f9983009bf8a3628110c71d</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_d19d2ec04f9983009bf8a3628110c72c</sys_update_name>
+        <sys_updated_by>andy.venables</sys_updated_by>
+        <sys_updated_on>2017-09-14 18:10:43</sys_updated_on>
+        <sys_user_role display_value="x_snc_dvd_lib2.user" name="x_snc_dvd_lib2.user">789deac04f9983009bf8a3628110c7d4</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
